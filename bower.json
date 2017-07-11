@@ -6,7 +6,7 @@
     "Nick Wise and Andrew Dalton"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/drewlinn/Angular-Tunes",
   "ignore": [
     "**/.*",
     "node_modules",
