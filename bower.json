@@ -3,10 +3,10 @@
   "description": "",
   "main": "",
   "authors": [
-    "Nick Wise and Andrew Dalton"
+    "Andrew Glines"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/drewlinn/Angular-Tunes",
+  "homepage": "https://github.com/aglines-epicodus/js3-2-AngularTunesForked.git",
   "ignore": [
     "**/.*",
     "node_modules",
